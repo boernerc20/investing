@@ -1,0 +1,21 @@
+# Optional Advanced Dependencies
+# Install these later when you need ML features
+
+# PyTorch for ML models (Python 3.12 compatible)
+torch==2.5.1
+transformers==4.37.0
+
+# TA-Lib for advanced technical indicators
+# IMPORTANT: Requires C library installed first
+# Ubuntu/Debian: sudo apt-get install ta-lib
+# Arch Linux: yay -S ta-lib
+# Mac: brew install ta-lib
+# Then: pip install ta-lib
+# ta-lib==0.4.28
+
+# Alternative: pandas-ta (pure Python, no C dependencies)
+pandas-ta==0.3.14b0
+
+# Advanced ML
+xgboost==2.0.3
+lightgbm==4.3.0
