@@ -4,7 +4,7 @@
 
 ---
 
-## ✅ Completed
+## Completed
 
 ### Phase 1: Infrastructure (Session 1 — Feb 11)
 - [x] Project structure, Python 3.12 venv, all dependencies
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 Current System State
+## Current System State
 
 ### Database
 - Securities tracked: 11 ETFs (BND, QQQ, SPY, VIG, VTI, VXUS, XLE, XLF, XLI, XLK, XLV)
@@ -82,7 +82,7 @@ XLK    $139.56    -1   NEUTRAL    43   0.23   1.1x
 
 ---
 
-## 📊 Current System State (Feb 17, 2026)
+## Current System State (Feb 17, 2026)
 
 ### Sample Output (Feb 17, 2026 — combined signals)
 ```
@@ -98,11 +98,11 @@ QQQ      +0.07  NEUTRAL         -1    +1    +1    23%   1.17
 
 ---
 
-## 🎯 Phase 4: Next Session
+## Phase 4: Next Session
 
 ---
 
-## 📋 Backlog (Phase 4+)
+## Backlog (Phase 4+)
 
 ### Dashboard (Month 2)
 - [ ] Streamlit dashboard — portfolio overview, charts, agent signals
@@ -122,7 +122,7 @@ QQQ      +0.07  NEUTRAL         -1    +1    +1    23%   1.17
 
 ---
 
-## 💰 Investment Timeline (Unchanged)
+## Investment Timeline (Unchanged)
 
 **Now – Month 6**: Emergency fund ($5k/month → $30k). Paper trade with this system.
 **Month 7+**: Begin investing $850/month. 100% index funds (VTI, VXUS, BND).
@@ -130,7 +130,7 @@ QQQ      +0.07  NEUTRAL         -1    +1    +1    23%   1.17
 
 ---
 
-## 🔧 Key Commands
+## Key Commands
 
 ```bash
 # --- DAILY BRIEFING (run these after market close) ---
@@ -181,7 +181,7 @@ psql -U investing_user -d investing_db -h localhost
 
 ---
 
-## 🚀 How to Start Next Session
+## How to Start Next Session
 
 Tell Claude Code:
 > "Check CURRENT_STATUS.md and let's build the Streamlit dashboard"
