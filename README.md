@@ -49,7 +49,7 @@ Built for long-term index fund investing — designed to help understand markets
 
 - Python 3.12+
 - PostgreSQL with TimescaleDB extension
-- Free API keys: [FRED](https://fred.stlouisfed.org/docs/api/api_key.html), [Finnhub](https://finnhub.io/register), [Anthropic](https://console.anthropic.com/)
+- API keys: [FRED](https://fred.stlouisfed.org/docs/api/api_key.html), [Finnhub](https://finnhub.io/register), [Anthropic](https://console.anthropic.com/)
 
 ### Setup
 
